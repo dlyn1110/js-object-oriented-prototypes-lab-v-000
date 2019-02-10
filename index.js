@@ -17,7 +17,6 @@ function BoardMember(name, homeState, training){
 
   BoardMember.prototype.oreleasePressStatement = function(){
     return "You will see great things from Scuber."
-  };
 }
 
   BoardMember.prototype.sayHi = function(){
